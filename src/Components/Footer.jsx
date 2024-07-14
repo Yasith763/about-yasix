@@ -11,13 +11,7 @@ export default function Footer() {
                 <img src={footer_logo} alt="" />
                 <p>I am a frontend developer from, Sri Lanka with 1 years of experience.</p>
             </div>
-            <div className="footrt-top-right">
-                <div className="footer-email-input">
-                    <img src={user_icon} alt="" />
-                    <input type='email' placeholder='Enter Your Email'/>
-                </div>
-                <div className="footer-subscribe">Subscribe</div>
-            </div>
+           
         </div>
         <hr/>
         <div className="footer-bottom">
